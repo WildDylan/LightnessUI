@@ -9,6 +9,12 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+![](http://ocef2grmj.bkt.clouddn.com/lightness_1)
+
+![](http://ocef2grmj.bkt.clouddn.com/lightness_2)
+
+![](http://ocef2grmj.bkt.clouddn.com/lightness_3)
+
 ## Requirements
 
 ## Installation
