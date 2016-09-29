@@ -1,0 +1,19 @@
+PODS:
+  - DesignSystem (2.0.8)
+  - LightnessUI (0.1.0):
+    - DesignSystem
+
+DEPENDENCIES:
+  - LightnessUI (from `../`)
+
+EXTERNAL SOURCES:
+  LightnessUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DesignSystem: 0777e9c9eec974d02334461735c6d95552341b59
+  LightnessUI: c8a0e2d102d5d6be440e2a2e1b5f2aaf52087dbe
+
+PODFILE CHECKSUM: c5a6aec436a4c065d9564e8ef673074ed040b113
+
+COCOAPODS: 1.1.0.rc.2

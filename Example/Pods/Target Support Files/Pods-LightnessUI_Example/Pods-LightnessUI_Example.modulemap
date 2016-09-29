@@ -1,0 +1,6 @@
+framework module Pods_LightnessUI_Example {
+  umbrella header "Pods-LightnessUI_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

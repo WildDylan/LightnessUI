@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LightnessUI_Example' do
+  pod 'LightnessUI', :path => '../'
+
+  target 'LightnessUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
