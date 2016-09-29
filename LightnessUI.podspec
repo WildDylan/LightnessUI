@@ -36,7 +36,7 @@ About LightnessUI, i want to say, eazier for developer, Custom `UIView` and JSON
     'LightnessUI' => ['LightnessUI/Assets/*.png']
   }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'LightnessUI/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'Foundation', 'CoreGraphics', 'CoreFoundation', 'QuartzCore'
   s.dependency 'DesignSystem'
 end
