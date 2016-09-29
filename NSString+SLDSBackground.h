@@ -1,1 +1,0 @@
-../../../DesignSystem/SalesforceDesignSystem/NSString+SLDSBackground.h

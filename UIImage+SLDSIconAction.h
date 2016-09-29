@@ -1,1 +1,0 @@
-../../../DesignSystem/SalesforceDesignSystem/UIImage+SLDSIconAction.h

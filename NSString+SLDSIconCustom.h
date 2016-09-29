@@ -1,1 +1,0 @@
-../../../DesignSystem/SalesforceDesignSystem/NSString+SLDSIconCustom.h
